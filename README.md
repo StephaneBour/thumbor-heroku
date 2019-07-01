@@ -11,3 +11,5 @@ Deploy [Thumbor](https://github.com/thumbor/thumbor) in one click.
 In your Heroku Apps Settings, you can add, delete and edit config vars.
 
 All vars in [thumbor.conf](thumbor.conf) can be edit.
+
+By default, unsafe URL isn't enable, and the security key is `1234567890`
