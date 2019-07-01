@@ -1,0 +1,14 @@
+{
+    "name": "thumbor-heroku-18",
+    "keywords": [
+        "thumbor",
+        "python"
+    ],
+    "repository": "https://github.com/StephaneBour/thumbor-heroku",
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "stack": "heroku-18"
+}
