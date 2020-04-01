@@ -3,3 +3,6 @@ pillow==7.1.0
 tornado==6.0.4
 colorful==0.5.4
 opencv-python-headless==4.2.0.32
+opencv-engine==1.0.1
+remotecv==3.0.0
+pycurl==7.43.0.5
