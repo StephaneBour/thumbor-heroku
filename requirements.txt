@@ -1,5 +1,5 @@
 thumbor==7.0.0a5
-pillow==7.1.0
+pillow==9.3.0
 tornado==6.0.4
 colorful==0.5.4
 opencv-python-headless==4.2.0.32
