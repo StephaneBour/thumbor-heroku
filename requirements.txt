@@ -1,8 +1,8 @@
-thumbor==7.0.0a5
-pillow==7.1.0
-tornado==6.0.4
-colorful==0.5.4
-opencv-python-headless==4.2.0.32
+thumbor==7.7.4
+pillow==10.*
+tornado==6.4
+colorful==0.5.6
+opencv-python-headless==4.9.0.80
 opencv-engine==1.0.1
-remotecv==3.0.0
-pycurl==7.43.0.5
+remotecv==5.1
+pycurl==7.45
